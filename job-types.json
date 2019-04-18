@@ -1,0 +1,4229 @@
+[
+    {
+        "industryDomainId": 1,
+        "industryDomainName": "金融",
+        "industryDomainOrder": 1,
+        "industries": [
+            {
+                "industryId": 101,
+                "industryName": "銀行",
+                "industryOrder": 1,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 10101,
+                        "jobTypeName": "窓口サービス",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10102,
+                        "jobTypeName": "個人部門",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10103,
+                        "jobTypeName": "法人部門",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10104,
+                        "jobTypeName": "国際部門",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10105,
+                        "jobTypeName": "投資銀行部門",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10106,
+                        "jobTypeName": "市場部門",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10107,
+                        "jobTypeName": "審査部門",
+                        "jobTypeOrder": 7,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10108,
+                        "jobTypeName": "経営企画・人事・財務部門",
+                        "jobTypeOrder": 8,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10109,
+                        "jobTypeName": "IT部門",
+                        "jobTypeOrder": 9,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10110,
+                        "jobTypeName": "リスク管理部門",
+                        "jobTypeOrder": 10,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10111,
+                        "jobTypeName": "事務部門",
+                        "jobTypeOrder": 11,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10199,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 102,
+                "industryName": "証券",
+                "industryOrder": 2,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 10201,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10202,
+                        "jobTypeName": "支援",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10203,
+                        "jobTypeName": "専門職",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10204,
+                        "jobTypeName": "経営企画",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10205,
+                        "jobTypeName": "人事",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10206,
+                        "jobTypeName": "総務",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10207,
+                        "jobTypeName": "経理財務",
+                        "jobTypeOrder": 7,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10299,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 103,
+                "industryName": "損害保険",
+                "industryOrder": 3,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 10301,
+                        "jobTypeName": "商品開発",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10302,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10303,
+                        "jobTypeName": "サービス支援",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10304,
+                        "jobTypeName": "専門サービス",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10305,
+                        "jobTypeName": "経営企画",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10306,
+                        "jobTypeName": "人事",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10307,
+                        "jobTypeName": "総務",
+                        "jobTypeOrder": 7,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10308,
+                        "jobTypeName": "経理財務",
+                        "jobTypeOrder": 8,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10399,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 104,
+                "industryName": "消費者金融",
+                "industryOrder": 4,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 10401,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10499,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 105,
+                "industryName": "クレジットカード営業",
+                "industryOrder": 5,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 10501,
+                        "jobTypeName": "顧客審査",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10502,
+                        "jobTypeName": "システム管理",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10503,
+                        "jobTypeName": "セキュリティ",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10504,
+                        "jobTypeName": "顧客サービス",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10599,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 106,
+                "industryName": "リース",
+                "industryOrder": 6,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 10601,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10602,
+                        "jobTypeName": "資産管理",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10603,
+                        "jobTypeName": "審査・法務",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10604,
+                        "jobTypeName": "経理財務",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 10699,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 199,
+                "industryName": "その他",
+                "industryOrder": 99,
+                "isOther": true,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 19999,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "industryDomainId": 2,
+        "industryDomainName": "建設・不動産",
+        "industryDomainOrder": 2,
+        "industries": [
+            {
+                "industryId": 201,
+                "industryName": "建設",
+                "industryOrder": 1,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 20101,
+                        "jobTypeName": "施工・設計",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20102,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20104,
+                        "jobTypeName": "人事",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20106,
+                        "jobTypeName": "経理財務",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20105,
+                        "jobTypeName": "総務",
+                        "jobTypeOrder": 22,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20103,
+                        "jobTypeName": "経営企画",
+                        "jobTypeOrder": 31,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20199,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 203,
+                "industryName": "住宅",
+                "industryOrder": 3,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 20301,
+                        "jobTypeName": "設計・研究開発",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20302,
+                        "jobTypeName": "施工・管理",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20303,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20304,
+                        "jobTypeName": "経営企画",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20305,
+                        "jobTypeName": "人事",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20306,
+                        "jobTypeName": "総務",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20307,
+                        "jobTypeName": "経理財務",
+                        "jobTypeOrder": 7,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20399,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 204,
+                "industryName": "住宅設備",
+                "industryOrder": 4,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 20401,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20402,
+                        "jobTypeName": "商品開発・生産",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20403,
+                        "jobTypeName": "住宅設備機器管理",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20499,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 206,
+                "industryName": "土木",
+                "industryOrder": 6,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 20601,
+                        "jobTypeName": "施工管理",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20602,
+                        "jobTypeName": "測量士",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20603,
+                        "jobTypeName": "建築士",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20699,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 207,
+                "industryName": "建築コンサル",
+                "industryOrder": 7,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 20701,
+                        "jobTypeName": "設計",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20702,
+                        "jobTypeName": "調査",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20799,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 208,
+                "industryName": "ビル管理",
+                "industryOrder": 8,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 20801,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20802,
+                        "jobTypeName": "施設巡回・維持管理",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20803,
+                        "jobTypeName": "事務",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20899,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 209,
+                "industryName": "高速道路",
+                "industryOrder": 9,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 20901,
+                        "jobTypeName": "事務",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20902,
+                        "jobTypeName": "電気通信設備技術者",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20903,
+                        "jobTypeName": "建築技術者",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20999,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 210,
+                "industryName": "駐車場",
+                "industryOrder": 10,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 21001,
+                        "jobTypeName": "事務",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 21002,
+                        "jobTypeName": "窓口業務",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 21003,
+                        "jobTypeName": "駐車場管理人",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 21099,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 202,
+                "industryName": "不動産",
+                "industryOrder": 11,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 20201,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20202,
+                        "jobTypeName": "企画・開発",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20203,
+                        "jobTypeName": "ビル・マンション管理",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20204,
+                        "jobTypeName": "経営企画",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20205,
+                        "jobTypeName": "人事",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20206,
+                        "jobTypeName": "総務",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20207,
+                        "jobTypeName": "経理財務",
+                        "jobTypeOrder": 7,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20299,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 205,
+                "industryName": "電気通信工事",
+                "industryOrder": 51,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 20501,
+                        "jobTypeName": "電気工事士",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20502,
+                        "jobTypeName": "電気通信技術者",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 20599,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 299,
+                "industryName": "その他",
+                "industryOrder": 99,
+                "isOther": true,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 29999,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "industryDomainId": 7,
+        "industryDomainName": "電気・電子業界",
+        "industryDomainOrder": 3,
+        "industries": [
+            {
+                "industryId": 701,
+                "industryName": "家電",
+                "industryOrder": 1,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 70101,
+                        "jobTypeName": "研究・商品開発",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70102,
+                        "jobTypeName": "企画・マーケティング",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70103,
+                        "jobTypeName": "生産・品質管理",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70104,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70199,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 702,
+                "industryName": "電子機器",
+                "industryOrder": 2,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 70201,
+                        "jobTypeName": "電子機器組立技能士",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70202,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70203,
+                        "jobTypeName": "カスタマーエンジニア",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70204,
+                        "jobTypeName": "システムエンジニア",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70299,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 703,
+                "industryName": "電子部品",
+                "industryOrder": 3,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 70301,
+                        "jobTypeName": "製造オペレーター",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70302,
+                        "jobTypeName": "設計開発",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70303,
+                        "jobTypeName": "エンジニア",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70304,
+                        "jobTypeName": "品質管理",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70305,
+                        "jobTypeName": "保守点検",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70306,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70399,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 704,
+                "industryName": "精密機器",
+                "industryOrder": 4,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 70401,
+                        "jobTypeName": "精密機器技術者",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70402,
+                        "jobTypeName": "機械設計",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70403,
+                        "jobTypeName": "エンジニア",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70404,
+                        "jobTypeName": "CADオペレーター",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70405,
+                        "jobTypeName": "組立",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70406,
+                        "jobTypeName": "事務",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70499,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 705,
+                "industryName": "OA機器",
+                "industryOrder": 5,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 70501,
+                        "jobTypeName": "生産管理",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70502,
+                        "jobTypeName": "CADオペレーター",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70503,
+                        "jobTypeName": "エンジニア",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70504,
+                        "jobTypeName": "機械設計",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70505,
+                        "jobTypeName": "事務",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70599,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 706,
+                "industryName": "半導体",
+                "industryOrder": 6,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 70601,
+                        "jobTypeName": "設計開発",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70602,
+                        "jobTypeName": "検査作業",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70603,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70604,
+                        "jobTypeName": "資材調達",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70605,
+                        "jobTypeName": "機械オペレーター",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70606,
+                        "jobTypeName": "生産管理",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 70699,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 799,
+                "industryName": "その他",
+                "industryOrder": 99,
+                "isOther": true,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 79999,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "industryDomainId": 4,
+        "industryDomainName": "IT・メディア",
+        "industryDomainOrder": 4,
+        "industries": [
+            {
+                "industryId": 401,
+                "industryName": "IT",
+                "industryOrder": 1,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 40101,
+                        "jobTypeName": "マーケティング",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40102,
+                        "jobTypeName": "コンサルティング",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40103,
+                        "jobTypeName": "プロジェクトマネジメント",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40104,
+                        "jobTypeName": "システムエンジニア",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40105,
+                        "jobTypeName": "プログラマー",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40106,
+                        "jobTypeName": "企画開発",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40199,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 402,
+                "industryName": "通信",
+                "industryOrder": 2,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 40201,
+                        "jobTypeName": "ネットワークエンジニア",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40202,
+                        "jobTypeName": "プログラマー",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40203,
+                        "jobTypeName": "電気通信技術者",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40204,
+                        "jobTypeName": "オペレーター・ユーザーサポート",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40205,
+                        "jobTypeName": "システムエンジニア",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40206,
+                        "jobTypeName": "接客・販売",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40207,
+                        "jobTypeName": "事務",
+                        "jobTypeOrder": 7,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40208,
+                        "jobTypeName": "総務",
+                        "jobTypeOrder": 8,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40209,
+                        "jobTypeName": "経理財務",
+                        "jobTypeOrder": 9,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40299,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 403,
+                "industryName": "ソフトウェア",
+                "industryOrder": 3,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 40301,
+                        "jobTypeName": "ソフトウェア開発",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40302,
+                        "jobTypeName": "ITサービス",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40303,
+                        "jobTypeName": "営業・コンサル",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40399,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 404,
+                "industryName": "インターネット",
+                "industryOrder": 4,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 40401,
+                        "jobTypeName": "ITエンジニア",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40402,
+                        "jobTypeName": "クリエイター",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40403,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40404,
+                        "jobTypeName": "マーケティング",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40405,
+                        "jobTypeName": "企画開発",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40406,
+                        "jobTypeName": "管理",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40407,
+                        "jobTypeName": "秘書",
+                        "jobTypeOrder": 7,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40499,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 405,
+                "industryName": "モバイル",
+                "industryOrder": 5,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 40501,
+                        "jobTypeName": "エンジニア",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40502,
+                        "jobTypeName": "クリエイター",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40503,
+                        "jobTypeName": "プロデューサー",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40504,
+                        "jobTypeName": "ディレクター",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40599,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 406,
+                "industryName": "携帯電話",
+                "industryOrder": 6,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 40601,
+                        "jobTypeName": "技術開発",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40602,
+                        "jobTypeName": "企画",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40603,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40699,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 407,
+                "industryName": "ネット広告",
+                "industryOrder": 7,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 40701,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40702,
+                        "jobTypeName": "コンサルタント",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40703,
+                        "jobTypeName": "メディアプランナー",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40704,
+                        "jobTypeName": "クリエイター",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40705,
+                        "jobTypeName": "ディレクター",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40799,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 408,
+                "industryName": "テレビ",
+                "industryOrder": 8,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 40801,
+                        "jobTypeName": "編成・制作",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40802,
+                        "jobTypeName": "技術",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40803,
+                        "jobTypeName": "アナウンサー・キャスター",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40804,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40899,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 409,
+                "industryName": "広告",
+                "industryOrder": 9,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 40901,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40902,
+                        "jobTypeName": "マーケティング",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40903,
+                        "jobTypeName": "クリエイター",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40904,
+                        "jobTypeName": "メディアプランナー",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40905,
+                        "jobTypeName": "経営企画",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40906,
+                        "jobTypeName": "人事",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40907,
+                        "jobTypeName": "総務",
+                        "jobTypeOrder": 7,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40908,
+                        "jobTypeName": "経理財務",
+                        "jobTypeOrder": 8,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 40999,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 410,
+                "industryName": "出版",
+                "industryOrder": 10,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 41001,
+                        "jobTypeName": "制作",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 41002,
+                        "jobTypeName": "編集者",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 41003,
+                        "jobTypeName": "営業・販促",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 41099,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 411,
+                "industryName": "印刷",
+                "industryOrder": 11,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 41101,
+                        "jobTypeName": "技術者",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 41102,
+                        "jobTypeName": "事務",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 41103,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 41104,
+                        "jobTypeName": "デザイナー",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 41105,
+                        "jobTypeName": "ディレクター",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 41199,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 499,
+                "industryName": "その他",
+                "industryOrder": 99,
+                "isOther": true,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 49999,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "industryDomainId": 5,
+        "industryDomainName": "インフラ・産業",
+        "industryDomainOrder": 5,
+        "industries": [
+            {
+                "industryId": 501,
+                "industryName": "石油",
+                "industryOrder": 1,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 50101,
+                        "jobTypeName": "インフラ開発",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50102,
+                        "jobTypeName": "管理保守",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50103,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50199,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 502,
+                "industryName": "電力",
+                "industryOrder": 2,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 50201,
+                        "jobTypeName": "技術",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50202,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50203,
+                        "jobTypeName": "広報",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50204,
+                        "jobTypeName": "人事",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50205,
+                        "jobTypeName": "総務",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50206,
+                        "jobTypeName": "経理",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50207,
+                        "jobTypeName": "用地・資材・燃料",
+                        "jobTypeOrder": 7,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50208,
+                        "jobTypeName": "法務",
+                        "jobTypeOrder": 8,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50299,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 503,
+                "industryName": "ガス",
+                "industryOrder": 3,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 50301,
+                        "jobTypeName": "施工管理",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50302,
+                        "jobTypeName": "保守・修理",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50303,
+                        "jobTypeName": "設備管理",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50304,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50399,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 504,
+                "industryName": "化学",
+                "industryOrder": 4,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 50401,
+                        "jobTypeName": "研究開発",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50402,
+                        "jobTypeName": "生産",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50403,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50499,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 505,
+                "industryName": "繊維",
+                "industryOrder": 5,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 50501,
+                        "jobTypeName": "研究開発",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50502,
+                        "jobTypeName": "商品開発",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50503,
+                        "jobTypeName": "生産",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50504,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50599,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 506,
+                "industryName": "鉄鋼",
+                "industryOrder": 6,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 50601,
+                        "jobTypeName": "研究開発",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50602,
+                        "jobTypeName": "生産管理",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50603,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50699,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 507,
+                "industryName": "非鉄金属",
+                "industryOrder": 7,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 50701,
+                        "jobTypeName": "研究開発",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50702,
+                        "jobTypeName": "生産管理",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50703,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50799,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 508,
+                "industryName": "金属製品",
+                "industryOrder": 8,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 50801,
+                        "jobTypeName": "研究開発",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50802,
+                        "jobTypeName": "生産管理",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50803,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50899,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 509,
+                "industryName": "ガラス",
+                "industryOrder": 9,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 50901,
+                        "jobTypeName": "研究開発",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50902,
+                        "jobTypeName": "生産管理",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50903,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 50999,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 510,
+                "industryName": "製紙",
+                "industryOrder": 10,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 51001,
+                        "jobTypeName": "研究開発",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 51002,
+                        "jobTypeName": "生産管理",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 51003,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 51099,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 511,
+                "industryName": "ゴム・タイヤ",
+                "industryOrder": 11,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 51101,
+                        "jobTypeName": "生産管理",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 51102,
+                        "jobTypeName": "エンジニア",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 51103,
+                        "jobTypeName": "デザイナー",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 51104,
+                        "jobTypeName": "製造オペレータ",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 51105,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 51199,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 599,
+                "industryName": "その他",
+                "industryOrder": 99,
+                "isOther": true,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 59999,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "industryDomainId": 6,
+        "industryDomainName": "重工業",
+        "industryDomainOrder": 6,
+        "industries": [
+            {
+                "industryId": 601,
+                "industryName": "自動車",
+                "industryOrder": 1,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 60101,
+                        "jobTypeName": "生産技術",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60102,
+                        "jobTypeName": "品質保証",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60103,
+                        "jobTypeName": "産業医",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60104,
+                        "jobTypeName": "エンジニア",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60105,
+                        "jobTypeName": "設計開発",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60106,
+                        "jobTypeName": "商品戦略",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60107,
+                        "jobTypeName": "バイヤー",
+                        "jobTypeOrder": 7,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60108,
+                        "jobTypeName": "知的財産",
+                        "jobTypeOrder": 8,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60109,
+                        "jobTypeName": "マーケティング",
+                        "jobTypeOrder": 9,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60199,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 602,
+                "industryName": "自動車部品",
+                "industryOrder": 2,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 60201,
+                        "jobTypeName": "製品開発",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60202,
+                        "jobTypeName": "品質保証",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60203,
+                        "jobTypeName": "生産技術",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60204,
+                        "jobTypeName": "生産管理",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60205,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60206,
+                        "jobTypeName": "調達",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60299,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 603,
+                "industryName": "二輪車・バイク",
+                "industryOrder": 3,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 60301,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60302,
+                        "jobTypeName": "整備士",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60399,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 604,
+                "industryName": "中古車",
+                "industryOrder": 4,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 60401,
+                        "jobTypeName": "整備士",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60402,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60499,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 605,
+                "industryName": "機械",
+                "industryOrder": 5,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 60501,
+                        "jobTypeName": "デザイナー",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60502,
+                        "jobTypeName": "機械設計",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60503,
+                        "jobTypeName": "機械オペレーション",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60504,
+                        "jobTypeName": "プラントエンジニア",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60505,
+                        "jobTypeName": "プログラマー",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60506,
+                        "jobTypeName": "生産管理",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60507,
+                        "jobTypeName": "CAD技術者",
+                        "jobTypeOrder": 7,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60599,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 606,
+                "industryName": "造船重機",
+                "industryOrder": 6,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 60601,
+                        "jobTypeName": "設計開発",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60602,
+                        "jobTypeName": "製造管理",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60603,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60604,
+                        "jobTypeName": "資材調達",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60699,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 607,
+                "industryName": "プラント",
+                "industryOrder": 7,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 60701,
+                        "jobTypeName": "デザイナー",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60702,
+                        "jobTypeName": "開発",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60703,
+                        "jobTypeName": "プラントエンジニア",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60704,
+                        "jobTypeName": "施工管理",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60705,
+                        "jobTypeName": "品質管理",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60706,
+                        "jobTypeName": "プラントオペレーター",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60799,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 608,
+                "industryName": "建設機械",
+                "industryOrder": 8,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 60801,
+                        "jobTypeName": "建設機械オペレーター",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60802,
+                        "jobTypeName": "サービスエンジニア",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60803,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60804,
+                        "jobTypeName": "製造オペレーター",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60805,
+                        "jobTypeName": "整備士",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60806,
+                        "jobTypeName": "設計開発",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60899,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 609,
+                "industryName": "工作機械",
+                "industryOrder": 9,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 60901,
+                        "jobTypeName": "研究開発",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60902,
+                        "jobTypeName": "機械設計",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60903,
+                        "jobTypeName": "ソフトウェア開発",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60904,
+                        "jobTypeName": "プログラム設計",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60905,
+                        "jobTypeName": "資材調達",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60906,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60907,
+                        "jobTypeName": "マーケティング",
+                        "jobTypeOrder": 7,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 60999,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 699,
+                "industryName": "その他",
+                "industryOrder": 99,
+                "isOther": true,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 69999,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "industryDomainId": 8,
+        "industryDomainName": "食品・農業",
+        "industryDomainOrder": 8,
+        "industries": [
+            {
+                "industryId": 801,
+                "industryName": "食品",
+                "industryOrder": 1,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 80101,
+                        "jobTypeName": "研究開発",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80102,
+                        "jobTypeName": "商品開発・マーケティング",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80103,
+                        "jobTypeName": "商品生産",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80104,
+                        "jobTypeName": "営業・販促",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80199,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 802,
+                "industryName": "菓子",
+                "industryOrder": 2,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 80201,
+                        "jobTypeName": "パティシエ",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80202,
+                        "jobTypeName": "和菓子職人",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80203,
+                        "jobTypeName": "パン職人",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80204,
+                        "jobTypeName": "栄養士",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80205,
+                        "jobTypeName": "フードコーディネーター",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80206,
+                        "jobTypeName": "バリスタ",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80207,
+                        "jobTypeName": "ソムリエ",
+                        "jobTypeOrder": 7,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80299,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 803,
+                "industryName": "清涼飲料",
+                "industryOrder": 3,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 80301,
+                        "jobTypeName": "商品開発・研究",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80302,
+                        "jobTypeName": "生産管理",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80303,
+                        "jobTypeName": "品質保証",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80304,
+                        "jobTypeName": "営業・販促",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80305,
+                        "jobTypeName": "マーケティング",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80399,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 804,
+                "industryName": "水産・農林",
+                "industryOrder": 4,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 80401,
+                        "jobTypeName": "企画",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80402,
+                        "jobTypeName": "研究開発",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80403,
+                        "jobTypeName": "設計生産",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80404,
+                        "jobTypeName": "マーケティング",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80405,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80406,
+                        "jobTypeName": "バイオ技術者",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80407,
+                        "jobTypeName": "動物看護士",
+                        "jobTypeOrder": 7,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80408,
+                        "jobTypeName": "獣医師",
+                        "jobTypeOrder": 8,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80409,
+                        "jobTypeName": "漁師",
+                        "jobTypeOrder": 9,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80410,
+                        "jobTypeName": "水産技術者",
+                        "jobTypeOrder": 10,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80411,
+                        "jobTypeName": "訓練士",
+                        "jobTypeOrder": 11,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80412,
+                        "jobTypeName": "トリマー",
+                        "jobTypeOrder": 12,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80413,
+                        "jobTypeName": "農業（研究）",
+                        "jobTypeOrder": 13,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80414,
+                        "jobTypeName": "フラワーデザイナー",
+                        "jobTypeOrder": 14,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80415,
+                        "jobTypeName": "フラワーコーディネーター",
+                        "jobTypeOrder": 15,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80416,
+                        "jobTypeName": "造園技能士",
+                        "jobTypeOrder": 16,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80417,
+                        "jobTypeName": "樹木医",
+                        "jobTypeOrder": 17,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80418,
+                        "jobTypeName": "林業技師",
+                        "jobTypeOrder": 18,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80419,
+                        "jobTypeName": "ペットトレーナー",
+                        "jobTypeOrder": 19,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 80499,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 899,
+                "industryName": "その他",
+                "industryOrder": 99,
+                "isOther": true,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 89999,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "industryDomainId": 9,
+        "industryDomainName": "小売・卸業",
+        "industryDomainOrder": 9,
+        "industries": [
+            {
+                "industryId": 901,
+                "industryName": "小売",
+                "industryOrder": 1,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 90101,
+                        "jobTypeName": "バイヤー",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90102,
+                        "jobTypeName": "在庫管理",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90103,
+                        "jobTypeName": "物流",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90104,
+                        "jobTypeName": "販売",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90105,
+                        "jobTypeName": "販売支援",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90199,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 902,
+                "industryName": "卸売",
+                "industryOrder": 2,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 90201,
+                        "jobTypeName": "バイヤー",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90202,
+                        "jobTypeName": "在庫管理",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90203,
+                        "jobTypeName": "物流",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90204,
+                        "jobTypeName": "システム管理",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90205,
+                        "jobTypeName": "輸送",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90206,
+                        "jobTypeName": "配送センター",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90299,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 903,
+                "industryName": "商社",
+                "industryOrder": 3,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 90301,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90302,
+                        "jobTypeName": "販売企画",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90303,
+                        "jobTypeName": "貿易事務",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90304,
+                        "jobTypeName": "製品開発",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90305,
+                        "jobTypeName": "製造管理",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90399,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 904,
+                "industryName": "百貨店",
+                "industryOrder": 4,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 90401,
+                        "jobTypeName": "販売",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90402,
+                        "jobTypeName": "マネージャー",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90403,
+                        "jobTypeName": "バイヤー",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90404,
+                        "jobTypeName": "販売支援",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90405,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90499,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 905,
+                "industryName": "コンビニ",
+                "industryOrder": 5,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 90501,
+                        "jobTypeName": "商品仕入れ",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90502,
+                        "jobTypeName": "物流",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90503,
+                        "jobTypeName": "販売",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90504,
+                        "jobTypeName": "販促",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90505,
+                        "jobTypeName": "店舗開発",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90599,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 906,
+                "industryName": "ドラッグストア",
+                "industryOrder": 6,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 90601,
+                        "jobTypeName": "仕入れ",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90602,
+                        "jobTypeName": "在庫管理",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90603,
+                        "jobTypeName": "販売",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90604,
+                        "jobTypeName": "販売支援",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90699,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 907,
+                "industryName": "家電量販店",
+                "industryOrder": 7,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 90701,
+                        "jobTypeName": "総合職",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90702,
+                        "jobTypeName": "WEB販売職",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90703,
+                        "jobTypeName": "法人営業",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90704,
+                        "jobTypeName": "販促",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90799,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 908,
+                "industryName": "製薬",
+                "industryOrder": 8,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 90801,
+                        "jobTypeName": "研究",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90802,
+                        "jobTypeName": "開発",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90803,
+                        "jobTypeName": "生産",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90804,
+                        "jobTypeName": "営業・販促",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90805,
+                        "jobTypeName": "薬剤師",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90806,
+                        "jobTypeName": "CRA（臨床開発モニター",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90807,
+                        "jobTypeName": "CRC（治験コーディネーター",
+                        "jobTypeOrder": 7,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90808,
+                        "jobTypeName": "DM（データマネジメント",
+                        "jobTypeOrder": 8,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90809,
+                        "jobTypeName": "品質管理",
+                        "jobTypeOrder": 9,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90810,
+                        "jobTypeName": "プログラマー",
+                        "jobTypeOrder": 10,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90899,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 909,
+                "industryName": "インテリア",
+                "industryOrder": 9,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 90901,
+                        "jobTypeName": "インテリアデザイナー",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90902,
+                        "jobTypeName": "インテリアコーディネーター",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90903,
+                        "jobTypeName": "CADオペレーター",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90904,
+                        "jobTypeName": "施工管理",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90905,
+                        "jobTypeName": "パース",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90906,
+                        "jobTypeName": "制作",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 90999,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 910,
+                "industryName": "化粧品",
+                "industryOrder": 10,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 91001,
+                        "jobTypeName": "研究開発",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 91002,
+                        "jobTypeName": "商品企画",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 91003,
+                        "jobTypeName": "生産",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 91004,
+                        "jobTypeName": "営業・販促",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 91005,
+                        "jobTypeName": "販売",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 91099,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 911,
+                "industryName": "アパレル",
+                "industryOrder": 11,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 91101,
+                        "jobTypeName": "商品開発",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 91102,
+                        "jobTypeName": "ブランドマネージャー",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 91103,
+                        "jobTypeName": "デザイナー",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 91104,
+                        "jobTypeName": "パタンナー",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 91105,
+                        "jobTypeName": "プレス",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 91106,
+                        "jobTypeName": "販売",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 91107,
+                        "jobTypeName": "生産管理・在庫管理",
+                        "jobTypeOrder": 7,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 91108,
+                        "jobTypeName": "バイヤー",
+                        "jobTypeOrder": 8,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 91199,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 912,
+                "industryName": "メガネ",
+                "industryOrder": 12,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 91201,
+                        "jobTypeName": "販売",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 91202,
+                        "jobTypeName": "製造",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 91203,
+                        "jobTypeName": "メガネデザイナー",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 91299,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 999,
+                "industryName": "その他",
+                "industryOrder": 99,
+                "isOther": true,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 99999,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "industryDomainId": 10,
+        "industryDomainName": "サービス産業",
+        "industryDomainOrder": 10,
+        "industries": [
+            {
+                "industryId": 1001,
+                "industryName": "人材派遣",
+                "industryOrder": 1,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 100101,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100102,
+                        "jobTypeName": "スタッフ支援",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100103,
+                        "jobTypeName": "アドバイザー",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100199,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 1002,
+                "industryName": "教育",
+                "industryOrder": 2,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 100201,
+                        "jobTypeName": "講師",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100202,
+                        "jobTypeName": "サポートスタッフ",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100203,
+                        "jobTypeName": "事務",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100204,
+                        "jobTypeName": "販促",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100205,
+                        "jobTypeName": "スーパーバイザー",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100206,
+                        "jobTypeName": "保育士",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100207,
+                        "jobTypeName": "教習所インストラクター",
+                        "jobTypeOrder": 7,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100208,
+                        "jobTypeName": "留学コンサルタント",
+                        "jobTypeOrder": 8,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100299,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 1003,
+                "industryName": "介護",
+                "industryOrder": 3,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 100301,
+                        "jobTypeName": "ホームヘルパー",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100302,
+                        "jobTypeName": "介護福祉士",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100303,
+                        "jobTypeName": "ケアマネジャー",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100304,
+                        "jobTypeName": "社会福祉士",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100305,
+                        "jobTypeName": "医師",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100306,
+                        "jobTypeName": "看護師",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100307,
+                        "jobTypeName": "准看護師",
+                        "jobTypeOrder": 7,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100308,
+                        "jobTypeName": "理学療法士",
+                        "jobTypeOrder": 8,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100309,
+                        "jobTypeName": "作業療法士",
+                        "jobTypeOrder": 9,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100310,
+                        "jobTypeName": "言語聴覚士",
+                        "jobTypeOrder": 10,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100311,
+                        "jobTypeName": "栄養士",
+                        "jobTypeOrder": 11,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100312,
+                        "jobTypeName": "介護サポーター",
+                        "jobTypeOrder": 12,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100313,
+                        "jobTypeName": "調理員",
+                        "jobTypeOrder": 13,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100314,
+                        "jobTypeName": "介護事務",
+                        "jobTypeOrder": 14,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100315,
+                        "jobTypeName": "生活相談員",
+                        "jobTypeOrder": 15,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100316,
+                        "jobTypeName": "柔道整復師",
+                        "jobTypeOrder": 16,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100317,
+                        "jobTypeName": "あん摩マッサージ指圧師",
+                        "jobTypeOrder": 17,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100399,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 1004,
+                "industryName": "警備",
+                "industryOrder": 4,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 100401,
+                        "jobTypeName": "警備",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100402,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100403,
+                        "jobTypeName": "技術",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100404,
+                        "jobTypeName": "事務",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100405,
+                        "jobTypeName": "介護・看護",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100499,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 1005,
+                "industryName": "ブライダル",
+                "industryOrder": 5,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 100501,
+                        "jobTypeName": "接客",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100502,
+                        "jobTypeName": "営業アシスタント",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100599,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 1006,
+                "industryName": "葬儀",
+                "industryOrder": 6,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 100601,
+                        "jobTypeName": "納棺士",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100602,
+                        "jobTypeName": "葬祭ディレクター・エンディングプランナー",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100603,
+                        "jobTypeName": "葬儀司会",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100604,
+                        "jobTypeName": "葬儀アシスタント",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100605,
+                        "jobTypeName": "生花スタッフ",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100699,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 1007,
+                "industryName": "コンサルティング",
+                "industryOrder": 7,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 100701,
+                        "jobTypeName": "コンサルタント",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100799,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 1008,
+                "industryName": "飲食",
+                "industryOrder": 8,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 100801,
+                        "jobTypeName": "ショコラティエ",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100802,
+                        "jobTypeName": "寿司職人",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100803,
+                        "jobTypeName": "料理研究家",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100804,
+                        "jobTypeName": "板前",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100805,
+                        "jobTypeName": "調理師（外国料理）",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100806,
+                        "jobTypeName": "調理師（その他）",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100807,
+                        "jobTypeName": "調香師",
+                        "jobTypeOrder": 7,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100808,
+                        "jobTypeName": "食品衛生監視員",
+                        "jobTypeOrder": 8,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100809,
+                        "jobTypeName": "店長",
+                        "jobTypeOrder": 9,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100810,
+                        "jobTypeName": "接客・ホールスタッフ",
+                        "jobTypeOrder": 10,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100811,
+                        "jobTypeName": "シェフ",
+                        "jobTypeOrder": 11,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100812,
+                        "jobTypeName": "パティシエ",
+                        "jobTypeOrder": 12,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100813,
+                        "jobTypeName": "ブーランジェ",
+                        "jobTypeOrder": 13,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100814,
+                        "jobTypeName": "ソムリエ",
+                        "jobTypeOrder": 14,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100815,
+                        "jobTypeName": "バーテンダー",
+                        "jobTypeOrder": 15,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100816,
+                        "jobTypeName": "フードコーディネーター",
+                        "jobTypeOrder": 16,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100817,
+                        "jobTypeName": "栄養士",
+                        "jobTypeOrder": 17,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 100899,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 1099,
+                "industryName": "その他",
+                "industryOrder": 99,
+                "isOther": true,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 109999,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "industryDomainId": 11,
+        "industryDomainName": "レジャー業",
+        "industryDomainOrder": 11,
+        "industries": [
+            {
+                "industryId": 1101,
+                "industryName": "旅行",
+                "industryOrder": 1,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 110101,
+                        "jobTypeName": "商品開発・企画",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 110102,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 110103,
+                        "jobTypeName": "添乗員",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 110199,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 1102,
+                "industryName": "ホテル",
+                "industryOrder": 2,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 110201,
+                        "jobTypeName": "サービス",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 110202,
+                        "jobTypeName": "営業・販促",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 110203,
+                        "jobTypeName": "商品開発",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 110204,
+                        "jobTypeName": "料飲",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 110299,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 1103,
+                "industryName": "レジャー施設",
+                "industryOrder": 3,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 110301,
+                        "jobTypeName": "接客",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 110302,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 110303,
+                        "jobTypeName": "企画運営",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 110304,
+                        "jobTypeName": "マーケティング",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 110399,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 1104,
+                "industryName": "スポーツクラブ",
+                "industryOrder": 4,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 110401,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 110402,
+                        "jobTypeName": "支配人",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 110403,
+                        "jobTypeName": "フロント",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 110404,
+                        "jobTypeName": "インストラクター",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 110405,
+                        "jobTypeName": "施設開発",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 110406,
+                        "jobTypeName": "商品開発",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 110407,
+                        "jobTypeName": "教育",
+                        "jobTypeOrder": 7,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 110499,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 1105,
+                "industryName": "ゲーム",
+                "industryOrder": 5,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 110501,
+                        "jobTypeName": "商品開発",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 110502,
+                        "jobTypeName": "営業・販促",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 110503,
+                        "jobTypeName": "生産管理",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 110599,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 1199,
+                "industryName": "その他",
+                "industryOrder": 99,
+                "isOther": true,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 119999,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "industryDomainId": 3,
+        "industryDomainName": "物流・運送",
+        "industryDomainOrder": 30,
+        "industries": [
+            {
+                "industryId": 301,
+                "industryName": "運送",
+                "industryOrder": 1,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 30101,
+                        "jobTypeName": "ドライバー",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30102,
+                        "jobTypeName": "システム開発",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30103,
+                        "jobTypeName": "事務",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30199,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 302,
+                "industryName": "航空",
+                "industryOrder": 2,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 30201,
+                        "jobTypeName": "運行管理者",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30202,
+                        "jobTypeName": "広報",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30203,
+                        "jobTypeName": "人事・総務",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30204,
+                        "jobTypeName": "経理・財務",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30205,
+                        "jobTypeName": "営業",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30206,
+                        "jobTypeName": "キャビンアテンダント",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30207,
+                        "jobTypeName": "機内通訳",
+                        "jobTypeOrder": 7,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30208,
+                        "jobTypeName": "グランドスタッフ",
+                        "jobTypeOrder": 8,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30209,
+                        "jobTypeName": "ラウンジスタッフ",
+                        "jobTypeOrder": 9,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30210,
+                        "jobTypeName": "パイロット",
+                        "jobTypeOrder": 10,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30211,
+                        "jobTypeName": "整備士",
+                        "jobTypeOrder": 11,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30212,
+                        "jobTypeName": "航空管制官",
+                        "jobTypeOrder": 12,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30299,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 303,
+                "industryName": "鉄道",
+                "industryOrder": 3,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 30301,
+                        "jobTypeName": "整備士",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30302,
+                        "jobTypeName": "事務",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30303,
+                        "jobTypeName": "運行・販売管理",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30304,
+                        "jobTypeName": "サービス開発",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30305,
+                        "jobTypeName": "営業・販促",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30306,
+                        "jobTypeName": "不動産開発",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30399,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 304,
+                "industryName": "海運",
+                "industryOrder": 4,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 30401,
+                        "jobTypeName": "事務",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30402,
+                        "jobTypeName": "技術開発",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30403,
+                        "jobTypeName": "設計",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30404,
+                        "jobTypeName": "造船計画",
+                        "jobTypeOrder": 4,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30405,
+                        "jobTypeName": "航海士",
+                        "jobTypeOrder": 5,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30406,
+                        "jobTypeName": "機関士",
+                        "jobTypeOrder": 6,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30499,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 305,
+                "industryName": "倉庫・運輸",
+                "industryOrder": 5,
+                "isOther": false,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 30501,
+                        "jobTypeName": "倉庫管理",
+                        "jobTypeOrder": 1,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30502,
+                        "jobTypeName": "集荷・配送",
+                        "jobTypeOrder": 2,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30503,
+                        "jobTypeName": "事務",
+                        "jobTypeOrder": 3,
+                        "isOther": false
+                    },
+                    {
+                        "jobTypeId": 30599,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            },
+            {
+                "industryId": 399,
+                "industryName": "その他",
+                "industryOrder": 99,
+                "isOther": true,
+                "jobTypes": [
+                    {
+                        "jobTypeId": 39999,
+                        "jobTypeName": "その他",
+                        "jobTypeOrder": 99,
+                        "isOther": true
+                    }
+                ]
+            }
+        ]
+    }
+]
